@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta" id="daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta">
+	<SimpleField name="WKT" type="string"></SimpleField>
+	<SimpleField name="nama" type="string"></SimpleField>
+	<SimpleField name="deskripsi" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="string"></SimpleField>
+	<SimpleField name="NAMOBJ" type="string"></SimpleField>
+	<SimpleField name="FCODE" type="string"></SimpleField>
+	<SimpleField name="METADATA" type="string"></SimpleField>
+	<SimpleField name="SRS_ID" type="string"></SimpleField>
+	<SimpleField name="KDCPUM" type="string"></SimpleField>
+	<SimpleField name="KDEPUM" type="string"></SimpleField>
+	<SimpleField name="KDPKAB" type="string"></SimpleField>
+	<SimpleField name="KDPPUM" type="string"></SimpleField>
+	<SimpleField name="LUASWH" type="string"></SimpleField>
+	<SimpleField name="TIPADM" type="string"></SimpleField>
+	<SimpleField name="WADMKC" type="string"></SimpleField>
+	<SimpleField name="WADMKD" type="string"></SimpleField>
+	<SimpleField name="WADMKK" type="string"></SimpleField>
+	<SimpleField name="WADMPR" type="string"></SimpleField>
+	<SimpleField name="UUPP" type="string"></SimpleField>
+	<SimpleField name="LUAS" type="string"></SimpleField>
+	<SimpleField name="REMARK" type="string"></SimpleField>
+</Schema>
+<Folder><name>daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta</name>
+  <Placemark id="daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta.1">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta">
+		<SimpleData name="WKT">POLYGON ((110.834934 -8.203054, 110.828699 -8.167731, 110.785615 -8.15069, 110.789537 -8.116202, 110.755636 -8.02438, 110.785584 -7.816719, 110.714778 -7.791278, 110.54359 -7.792563, 110.519531 -7.830932, 110.467147 -7.869751, 110.496216 -7.892171, 110.487816 -7.945178, 110.398121 -7.980476, 110.333717 -7.99575, 110.339001 -8.028067, 110.375531 -8.071463, 110.467197 -8.110216, 110.603942 -8.145172, 110.718854 -8.199372, 110.793419 -8.193457, 110.834934 -8.203054))</SimpleData>
+		<SimpleData name="nama">Gunungkidul</SimpleData>
+		<SimpleData name="deskripsi"></SimpleData>
+		<SimpleData name="OBJECTID">4003</SimpleData>
+		<SimpleData name="NAMOBJ">Baleharjo</SimpleData>
+		<SimpleData name="FCODE">BA03070040</SimpleData>
+		<SimpleData name="METADATA">TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN</SimpleData>
+		<SimpleData name="SRS_ID">4326</SimpleData>
+		<SimpleData name="KDCPUM">34.03.01</SimpleData>
+		<SimpleData name="KDEPUM">34.03.01.2007</SimpleData>
+		<SimpleData name="KDPKAB">34.03</SimpleData>
+		<SimpleData name="KDPPUM">34</SimpleData>
+		<SimpleData name="LUASWH">0</SimpleData>
+		<SimpleData name="TIPADM">1</SimpleData>
+		<SimpleData name="WADMKC">Wonosari</SimpleData>
+		<SimpleData name="WADMKD">Baleharjo</SimpleData>
+		<SimpleData name="WADMKK">Gunungkidul</SimpleData>
+		<SimpleData name="WADMPR">Daerah Istimewa Yogyakarta</SimpleData>
+		<SimpleData name="UUPP">Data dari Pemerintah Daerah</SimpleData>
+		<SimpleData name="LUAS">4.23108152</SimpleData>
+		<SimpleData name="REMARK"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>110.834934,-8.203054 110.828699,-8.167731 110.785615,-8.15069 110.789537,-8.116202 110.755636,-8.02438 110.785584,-7.816719 110.714778,-7.791278 110.54359,-7.792563 110.519531,-7.830932 110.467147,-7.869751 110.496216,-7.892171 110.487816,-7.945178 110.398121,-7.980476 110.333717,-7.99575 110.339001,-8.028067 110.375531,-8.071463 110.467197,-8.110216 110.603942,-8.145172 110.718854,-8.199372 110.793419,-8.193457 110.834934,-8.203054</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta.2">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta">
+		<SimpleData name="WKT">POLYGON ((110.351089 -7.76822, 110.351753 -7.825745, 110.39542 -7.832333, 110.397127 -7.788484, 110.351089 -7.76822))</SimpleData>
+		<SimpleData name="nama">Kota Yogyakarta</SimpleData>
+		<SimpleData name="deskripsi"></SimpleData>
+		<SimpleData name="OBJECTID">3796</SimpleData>
+		<SimpleData name="NAMOBJ">Baciro</SimpleData>
+		<SimpleData name="FCODE">BA03070040</SimpleData>
+		<SimpleData name="METADATA">TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN</SimpleData>
+		<SimpleData name="SRS_ID">4326</SimpleData>
+		<SimpleData name="KDCPUM">34.71.03</SimpleData>
+		<SimpleData name="KDEPUM">34.71.03.1004</SimpleData>
+		<SimpleData name="KDPKAB">34.71</SimpleData>
+		<SimpleData name="KDPPUM">34</SimpleData>
+		<SimpleData name="LUASWH">0</SimpleData>
+		<SimpleData name="TIPADM">2</SimpleData>
+		<SimpleData name="WADMKC">Gondokusuman</SimpleData>
+		<SimpleData name="WADMKD">Kelurahan Baciro</SimpleData>
+		<SimpleData name="WADMKK">Kota Yogyakarta</SimpleData>
+		<SimpleData name="WADMPR">Daerah Istimewa Yogyakarta</SimpleData>
+		<SimpleData name="UUPP">Data RBI Skala 1:25.000</SimpleData>
+		<SimpleData name="LUAS">1.08227662</SimpleData>
+		<SimpleData name="REMARK">Wilayah Administrasi Kelurahan/Desa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>110.351089,-7.76822 110.351753,-7.825745 110.39542,-7.832333 110.397127,-7.788484 110.351089,-7.76822</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta.3">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta">
+		<SimpleData name="WKT">POLYGON ((110.003529 -7.888301, 110.14307 -7.946831, 110.211499 -7.985541, 110.273742 -7.893165, 110.221643 -7.837883, 110.233439 -7.8152, 110.21591 -7.741761, 110.269936 -7.706017, 110.263832 -7.646279, 110.141444 -7.644806, 110.131151 -7.739447, 110.063667 -7.812083, 110.041591 -7.884442, 110.003529 -7.888301))</SimpleData>
+		<SimpleData name="nama">Kulon Progo</SimpleData>
+		<SimpleData name="deskripsi"></SimpleData>
+		<SimpleData name="OBJECTID">3797</SimpleData>
+		<SimpleData name="NAMOBJ">Banaran</SimpleData>
+		<SimpleData name="FCODE">BA03070040</SimpleData>
+		<SimpleData name="METADATA">TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN</SimpleData>
+		<SimpleData name="SRS_ID">4326</SimpleData>
+		<SimpleData name="KDCPUM">34.01.04</SimpleData>
+		<SimpleData name="KDEPUM">34.01.04.2001</SimpleData>
+		<SimpleData name="KDPKAB">34.01</SimpleData>
+		<SimpleData name="KDPPUM">34</SimpleData>
+		<SimpleData name="LUASWH">0</SimpleData>
+		<SimpleData name="TIPADM">1</SimpleData>
+		<SimpleData name="WADMKC">Galur</SimpleData>
+		<SimpleData name="WADMKD">Banaran</SimpleData>
+		<SimpleData name="WADMKK">Kulon Progo</SimpleData>
+		<SimpleData name="WADMPR">Daerah Istimewa Yogyakarta</SimpleData>
+		<SimpleData name="UUPP">Data dari Pemerintah Daerah</SimpleData>
+		<SimpleData name="LUAS">8.89477244</SimpleData>
+		<SimpleData name="REMARK"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>110.003529,-7.888301 110.14307,-7.946831 110.211499,-7.985541 110.273742,-7.893165 110.221643,-7.837883 110.233439,-7.8152 110.21591,-7.741761 110.269936,-7.706017 110.263832,-7.646279 110.141444,-7.644806 110.131151,-7.739447 110.063667,-7.812083 110.041591,-7.884442 110.003529,-7.888301</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta.4">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta">
+		<SimpleData name="WKT">POLYGON ((110.339001 -8.028067, 110.333717 -7.99575, 110.398121 -7.980476, 110.487816 -7.945178, 110.496216 -7.892171, 110.467147 -7.869751, 110.519531 -7.830932, 110.421569 -7.822296, 110.397127 -7.788484, 110.39542 -7.832333, 110.351753 -7.825745, 110.351089 -7.76822, 110.292423 -7.835228, 110.275043 -7.793215, 110.233439 -7.8152, 110.221643 -7.837883, 110.273742 -7.893165, 110.211499 -7.985541, 110.339001 -8.028067))</SimpleData>
+		<SimpleData name="nama">Bantul</SimpleData>
+		<SimpleData name="deskripsi"></SimpleData>
+		<SimpleData name="OBJECTID">3792</SimpleData>
+		<SimpleData name="NAMOBJ">Argodadi</SimpleData>
+		<SimpleData name="FCODE">BA03070040</SimpleData>
+		<SimpleData name="METADATA">TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN</SimpleData>
+		<SimpleData name="SRS_ID">4326</SimpleData>
+		<SimpleData name="KDCPUM">34.02.17</SimpleData>
+		<SimpleData name="KDEPUM">34.02.17.2001</SimpleData>
+		<SimpleData name="KDPKAB">34.02</SimpleData>
+		<SimpleData name="KDPPUM">34</SimpleData>
+		<SimpleData name="LUASWH">0</SimpleData>
+		<SimpleData name="TIPADM">1</SimpleData>
+		<SimpleData name="WADMKC">Sedayu</SimpleData>
+		<SimpleData name="WADMKD">Argodadi</SimpleData>
+		<SimpleData name="WADMKK">Bantul</SimpleData>
+		<SimpleData name="WADMPR">Daerah Istimewa Yogyakarta</SimpleData>
+		<SimpleData name="UUPP">Data RBI Skala 1:25.000</SimpleData>
+		<SimpleData name="LUAS">11.26805916</SimpleData>
+		<SimpleData name="REMARK">Wilayah Administrasi Kelurahan/Desa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>110.339001,-8.028067 110.333717,-7.99575 110.398121,-7.980476 110.487816,-7.945178 110.496216,-7.892171 110.467147,-7.869751 110.519531,-7.830932 110.421569,-7.822296 110.397127,-7.788484 110.39542,-7.832333 110.351753,-7.825745 110.351089,-7.76822 110.292423,-7.835228 110.275043,-7.793215 110.233439,-7.8152 110.221643,-7.837883 110.273742,-7.893165 110.211499,-7.985541 110.339001,-8.028067</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta.5">
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#daerah_istimewa_yogyakarta_layer_daerah_istimewa_yogyakarta">
+		<SimpleData name="WKT">POLYGON ((110.233439 -7.8152, 110.275043 -7.793215, 110.292423 -7.835228, 110.351089 -7.76822, 110.397127 -7.788484, 110.421569 -7.822296, 110.519531 -7.830932, 110.54359 -7.792563, 110.491818 -7.742213, 110.445225 -7.541162, 110.391284 -7.594515, 110.303644 -7.655406, 110.269936 -7.706017, 110.21591 -7.741761, 110.233439 -7.8152))</SimpleData>
+		<SimpleData name="nama">Sleman</SimpleData>
+		<SimpleData name="deskripsi"></SimpleData>
+		<SimpleData name="OBJECTID">4000</SimpleData>
+		<SimpleData name="NAMOBJ">Ambarketawang</SimpleData>
+		<SimpleData name="FCODE">BA03070040</SimpleData>
+		<SimpleData name="METADATA">TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN</SimpleData>
+		<SimpleData name="SRS_ID">4326</SimpleData>
+		<SimpleData name="KDCPUM">34.04.01</SimpleData>
+		<SimpleData name="KDEPUM">34.04.01.2002</SimpleData>
+		<SimpleData name="KDPKAB">34.04</SimpleData>
+		<SimpleData name="KDPPUM">34</SimpleData>
+		<SimpleData name="LUASWH">0</SimpleData>
+		<SimpleData name="TIPADM">1</SimpleData>
+		<SimpleData name="WADMKC">Gamping</SimpleData>
+		<SimpleData name="WADMKD">Ambarketawang</SimpleData>
+		<SimpleData name="WADMKK">Sleman</SimpleData>
+		<SimpleData name="WADMPR">Daerah Istimewa Yogyakarta</SimpleData>
+		<SimpleData name="UUPP">Data dari Pemerintah Daerah</SimpleData>
+		<SimpleData name="LUAS">6.29588175</SimpleData>
+		<SimpleData name="REMARK"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>110.233439,-7.8152 110.275043,-7.793215 110.292423,-7.835228 110.351089,-7.76822 110.397127,-7.788484 110.421569,-7.822296 110.519531,-7.830932 110.54359,-7.792563 110.491818,-7.742213 110.445225,-7.541162 110.391284,-7.594515 110.303644,-7.655406 110.269936,-7.706017 110.21591,-7.741761 110.233439,-7.8152</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
